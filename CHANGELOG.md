@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/ChrisLangsfordEn/test-release-please/compare/v0.0.2...v1.0.0) (2022-09-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* Added all the code
+
+### Features
+
+* Added all the code ([17a64d7](https://github.com/ChrisLangsfordEn/test-release-please/commit/17a64d78720fa70354144840666229c84439aaf9))
+
 ## [0.0.2](https://github.com/ChrisLangsfordEn/test-release-please/compare/v0.0.1...v0.0.2) (2022-09-22)
 
 
