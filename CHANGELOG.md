@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/ChrisLangsfordEn/test-release-please/compare/v0.0.1...v0.0.2) (2022-09-22)
+
+
+### Bug Fixes
+
+* added testing files ([6592149](https://github.com/ChrisLangsfordEn/test-release-please/commit/659214965490ee1b44df4fc871fbd8bf843ebc41))
+
 ## 0.0.1 (2022-09-22)
 
 
