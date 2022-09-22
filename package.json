@@ -1,0 +1,19 @@
+{
+  "name": "test-release-please",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisLangsfordEn/test-release-please.git"
+  },
+  "author": "Chris Langsford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisLangsfordEn/test-release-please/issues"
+  },
+  "homepage": "https://github.com/ChrisLangsfordEn/test-release-please#readme"
+}
