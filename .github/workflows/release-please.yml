@@ -3,7 +3,7 @@ name: release-please
 on:
   push:
     branches:
-      - main
+      - develop
 jobs:
   release-please:
     runs-on: ubuntu-latest
@@ -12,3 +12,4 @@ jobs:
         with:
           release-type: node
           package-name: release-please-action
+          default-branch: main
