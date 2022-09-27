@@ -3,7 +3,7 @@ name: release-please
 on:
   push:
     branches:
-      - develop
+      - main
 jobs:
   release-please:
     runs-on: ubuntu-latest
