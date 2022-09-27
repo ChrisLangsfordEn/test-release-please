@@ -10,3 +10,5 @@ A releasable unit is a commit to the branch with one of the following prefixes: 
 This PR contains a generated changelog, including increments to major, minor and patch numbering.
 3. Version number can be updated via an empty commit with the appropriate body (i.e. `git commit --allow-empty -m "chore: release 2.0.0" -m "Release-As: 2.0.0"`)
 4. Commit messages for the changelog can also be fixed via: 
+
+## Next: Java - what does it do currently to snapshot versions
