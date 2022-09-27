@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ChrisLangsfordEn/test-release-please/compare/v1.0.0...v1.0.1) (2022-09-27)
+
+
+### Bug Fixes
+
+* Amended release action ([ebf47b7](https://github.com/ChrisLangsfordEn/test-release-please/commit/ebf47b73674a96556736f5a80555fb0020b2f534))
+
 ## [1.0.0](https://github.com/ChrisLangsfordEn/test-release-please/compare/v0.0.2...v1.0.0) (2022-09-22)
 
 
